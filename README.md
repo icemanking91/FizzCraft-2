@@ -1,2 +1,2 @@
 # FizzCraft-2
-FizzCraft 2 Issue Tracker
+FizzCraft 2 Issue and Update Tracker
